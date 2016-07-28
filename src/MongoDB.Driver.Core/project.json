@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.Win32.Primitives": "4.0.1",
+    "MongoDB.Bson": "1.0.0-*",
+    "NETStandard.Library": "1.6.0",
+    "System.Collections.Specialized": "4.0.1",
+    "System.Diagnostics.TraceSource": "4.0.0",
+    "System.Net.NameResolution": "4.0.0",
+    "System.Net.Security": "4.0.0",
+    "System.Security.SecureString": "4.0.0",
+    "System.ServiceModel.Primitives": "4.0.0",
+    "System.Threading.Tasks": "4.0.11",
+    "System.Threading.Thread": "4.0.0"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
